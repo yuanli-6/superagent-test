@@ -1,2 +1,2 @@
 ﻿# superagent-test
-dsh-superagnt local test repo
+dsh-superagent local test repo
